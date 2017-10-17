@@ -1,0 +1,59 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.katy.pr2u4menumultimendia.MainActivity" >
+
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" >
+    <menu>
+        <item android:id="@+id/navegador"
+            android:title="@string/action_navegador"
+            />
+        <item android:id="@+id/coreo"
+            android:title="@string/action_correo"
+            />
+        <item android:id="@+id/agenda"
+            android:title="@string/action_agenda"
+            />
+
+    </menu>
+    </item>
+
+    <item android:id="@+id/action_menu1"
+        android:title="@string/action_multimedia"
+        android:orderInCategory="100"
+        app:showAsAction="never" >
+
+    <menu>
+
+        <item android:id="@+id/audio"
+            android:title="@string/action_audio"
+            />
+        <item android:id="@+id/videoV"
+            android:title="@string/action_videoV"
+            />
+        <item android:id="@+id/video"
+            android:title="@string/action_video"
+            />
+
+    </menu>
+
+    </item>
+
+    <item android:id="@+id/action_menu2"
+        android:title="@string/action_Recusrsos"
+        android:orderInCategory="100"
+        app:showAsAction="never" >
+
+        <menu>
+            <item android:id="@+id/camara"
+                android:title="@string/action_camara"
+                />
+        </menu>
+
+    </item>
+
+</menu>

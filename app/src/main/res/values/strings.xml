@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu Multimendia</string>
+    <string name="action_settings">Configurar</string>
+    <string name="action_menu">Menú</string>
+    <string name="action_multimedia">Multimedia</string>
+    <string name="action_visor">Visor de Imagenes</string>
+    <string name="action_audio">Reproductor de Audio</string>
+    <string name="action_Recusrsos">Recursos</string>
+    <string name="action_camara">Camara</string>
+    <string name="action_videoV">Reproductor de Video view</string>
+    <string name="action_video">Reproductor de Video</string>
+    <string name="action_navegador">Abrir Navegador</string>
+    <string name="action_correo">Enviar E-mail</string>
+    <string name="action_agenda">Abrir Agenda</string>
+    <string name="reroductor_de_audio">Reroductor de audio</string>
+</resources>
