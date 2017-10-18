@@ -12,5 +12,5 @@
     <string name="action_navegador">Abrir Navegador</string>
     <string name="action_correo">Enviar E-mail</string>
     <string name="action_agenda">Abrir Agenda</string>
-    <string name="reroductor_de_audio">Reroductor de audio</string>
+    <string name="reroductor_de_audio">Reproductor de audio</string>
 </resources>

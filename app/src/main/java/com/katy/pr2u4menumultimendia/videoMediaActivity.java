@@ -9,11 +9,13 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.IllegalFormatException;
 
 public class videoMediaActivity extends AppCompatActivity {
     SurfaceHolder surfaceHolder;
     MediaPlayer mediaPlayer;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
